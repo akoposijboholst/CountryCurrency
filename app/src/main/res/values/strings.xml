@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountryCurrency</string>
+    <string name="country_flag">Country</string>
+    <string name="country">Counrty</string>
+</resources>
